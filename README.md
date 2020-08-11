@@ -1,2 +1,2 @@
 # lojaCampos
-Loja Bcampos Ecomeecer
+Loja Bcampos
